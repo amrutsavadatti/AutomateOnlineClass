@@ -162,7 +162,7 @@ def callLecture():
 
 
 
-
+keyboard = Controller()
 flag = 0
 date = datetime.date(1,1,1)#Dummy Date
 dow = datetime.datetime.today().weekday()#gives day of week in int
