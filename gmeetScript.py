@@ -179,7 +179,12 @@ keyboard = Controller()
 flag = 0
 date = datetime.date(1,1,1)#Dummy Date
 dow = datetime.datetime.today().weekday()#gives day of week in int
-dow = dow + 1# only for my pc else +1 for other pcs
+dow = dow + 1
+
+if dow == 6 or dow == 7:
+    print("Chill Maar, Weekend hai !!")
+    exit(0)
+    
 #print(dow)
 
 #Dictionary to store timetable timings and days of week
