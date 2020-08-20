@@ -169,8 +169,8 @@ timeTable = {1:[datetime.time(11,00,00,000000),0,1,0,1,0],2:[datetime.time(12,10
 
 #Put Your Accounts Email and Password Here
 
-Email = "amrutsavadatti@student.sfit.ac.in"
-Pass = "Amrutsavadatti16"
+Email = "YOUR_EMAIL@student.sfit.ac.in"
+Pass = "YOUR_PASSWORD"
 
 #///////////////////////////////////////////////////////////////////////////////
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
