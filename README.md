@@ -1,6 +1,6 @@
 # AutomateOnlineClass
 
-## Run the script(Just Double click gmeetScript.py) and your online Lectures will be taken  of.
+## Run the script(Just Double click gmeetScript.py) and your online Lectures will be taken care of.
 
 ### What it does:
 
