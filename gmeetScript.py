@@ -108,6 +108,7 @@ def isBetween(logInTime):
 
 def callLecture():
     isBetween(current_time)
+    current_time = datetime.datetime.now(pytz.timezone('Asia/Kolkata')).time()
     
     if current_time >= timeTable[1][0] and current_time < timeTable[2][0]:
         print("lecture 1")
@@ -206,22 +207,4 @@ while (flag!= 4):
 
 print("all executed correctly")
     
-
-
-
-
-
-
-
-
-
-
-
-'''    
-#print(dow)
-openMeet(timeTable[4][dow])
-time.sleep(120)
-'''
-
-
 
