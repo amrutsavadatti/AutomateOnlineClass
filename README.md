@@ -19,6 +19,8 @@ Works only for the google meet platform
     - pip install selenium
   - pynput
     - pip install pynput
+  - pytz
+    - pip install pytz
 - Make sure you are using the latest version of the _**Chrome Browser**_
 - Works best with _**Python 3.6.x and Python 3.7.x**_
 
